@@ -3,20 +3,28 @@
     <img         src="https://github.com/patelvishwa1999/patelvishwa1999/blob/8b4b1277d4b4ff080292fbfac6d81aba60f14b5b/images_svg/namegithub2.gif" alt="Vishwa Patel" />
 </h1>
 
-## About Me
+## Demonstrating skills through projects
+Explore how I've applied my skills in various technologies and domains through these hands-on projects :
 
-<p> Hello, </p>
-Welcome to my GitHub profile! 🚀
+### A Data Analyst
+## [Weather Effects on bike rides](https://public.tableau.com/app/profile/vishwa.patel1372/viz/BikeRidesDataAnalysis/Dashboard1)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-**Master of Science in Data Science** *3.56/4.0* \
-Rutgers University, New Brunswick, NJ \
-Sept 2022 – May 2024 \
-*Relevant Coursework:* Probability and Inference, Data Wrangling and Husbandry, Data Mining, Statistical Modelling and Computing, Natural Language Processing, Differential Privacy
 
-**Bachelor of Technology in Information Technology** *7.86/10* \
-Dharmsinh Desai University, Nadiad, India \
-Aug 2017 – May 2021 \
-*Relevant Coursework:* Data structures, Design & Analysis of Algorithms, Database Systems, Discrete Mathematics
+## [nycTaxiFlow](https://public.tableau.com/app/profile/vishwa.patel1372/viz/nycTaxi_17045558575210/Dashboard1)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Mage](https://img.shields.io/badge/-Mage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+## [Netflix Movies vs Tv shows](https://public.tableau.com/app/profile/vishwa.patel1372/viz/Netflix_17045570312290/NetflixDataset)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=for-the-badge&logo=tableau&logoColor=white)
+
+**These projects showcase my skills in action. Feel free to explore the repositories for a deeper dive into each skill set!**
+
 
 
