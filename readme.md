@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img         src="https://github.com/patelvishwa1999/patelvishwa1999/blob/8b4b1277d4b4ff080292fbfac6d81aba60f14b5b/images_svg/namegithub2.gif" alt="Vishwa Patel" />
+    <img         src="https://github.com/patelvishwa1999/patelvishwa1999/blob/9854fe74970b51ff8cf183aac0ff48c83833d244/images_svg/namegithub3.gif" alt="Vishwa Patel" />
 </h1>
 
 ## Demonstrating skills through projects here.
@@ -58,4 +58,37 @@ Explore how I've applied my skills in various technologies and domains through t
 **These projects showcase my skills in action. Feel free to explore the repositories for a deeper dive into each skill set!**
 
 
+
+
+
+<h2 align="center">
+    Let's connect
+</h2>
+<div align="center" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:vishwa.patel2311999@gmail.com">
+        <img src="https://github.com/patelvishwa1999/patelvishwa1999/blob/9854fe74970b51ff8cf183aac0ff48c83833d244/images_svg/gmail.png" alt="Email" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/vishwapatel23">
+        <img src="https://github.com/patelvishwa1999/patelvishwa1999/blob/9854fe74970b51ff8cf183aac0ff48c83833d244/images_svg/linkedin.png" alt="LinkedIn" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/vishtagram23/">
+        <img src="https://github.com/patelvishwa1999/patelvishwa1999/blob/9854fe74970b51ff8cf183aac0ff48c83833d244/images_svg/instagram.png" alt="Instagram" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/vp250">
+        <img src="https://github.com/patelvishwa1999/patelvishwa1999/blob/9854fe74970b51ff8cf183aac0ff48c83833d244/images_svg/discord.png" alt="Discord" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://public.tableau.com/app/profile/vishwa.patel1372/">
+        <img src="https://github.com/patelvishwa1999/patelvishwa1999/blob/9854fe74970b51ff8cf183aac0ff48c83833d244/images_svg/tableau.png" alt="Tableau Public" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
