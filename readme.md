@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">
-        <img         src="images_svg/namegithub_gray.gif" alt="Vishwa Patel" />
+        <img         src="https://github.com/patelvishwa1999/patelvishwa1999/blob/c6c77c8c3348c056696b16bb4b6f66e6febbe98c/images_svg/namegithub3.gif" alt="Vishwa Patel" />
     </h1>
     <p align="center" >
         &nbsp;
