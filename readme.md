@@ -32,7 +32,7 @@
 </div>
 
 <h2 align="center">🚀 embracing education 🎓, self-learning 📚, and experiential experience 📊🧪 🚀</h2>
-Explore how I've applied my skills in various technologies and domains through these hands-on projects :
+Explore how I've been applyiing my skills in various technologies and domains through these hands-on projects :
 
 ## [Weather Effects on bike rides](https://public.tableau.com/app/profile/vishwa.patel1372/viz/BikeRidesDataAnalysis/Dashboard1)
 ![Python](https://img.shields.io/badge/-Python-0e1217?style=for-the-badge&logo=python)
