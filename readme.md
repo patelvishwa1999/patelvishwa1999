@@ -131,4 +131,8 @@ Explore how I've been applyiing my skills in various technologies and domains th
 ![Docker](https://img.shields.io/badge/-Docker-0e1217?style=for-the-badge&logo=docker)
 
 
+Currently working towards ***LEARNING MLOPS*** 🚀
+
+
+
 
