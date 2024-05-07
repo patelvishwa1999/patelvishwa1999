@@ -34,6 +34,16 @@
 <h2 align="center">🚀 embracing education 🎓, self-learning 📚, and experiential experience 📊🧪 🚀</h2>
 Explore how I've been applyiing my skills in various technologies and domains through these hands-on projects :
 
+## [TweetDB Search APIs](https://adbms.s3.amazonaws.com/home.html)
+![Python](https://img.shields.io/badge/-Python-0e1217?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+- Developed a scalable tweet search application using SQL and NoSQL datastores for optimized querying
+- Designed the schema for Amazon RDS & Dynamodb including table structures, partitioning, and indexing
+- Implemented caching with LRUCache and AWS S3, reducing response times from 4s to 550ms
+
+
+
 ## [Weather Effects on bike rides](https://public.tableau.com/app/profile/vishwa.patel1372/viz/BikeRidesDataAnalysis/Dashboard1)
 ![Python](https://img.shields.io/badge/-Python-0e1217?style=for-the-badge&logo=python)
 ![Tableau](https://img.shields.io/badge/-Tableau-0e1217?style=for-the-badge&logo=tableau)
