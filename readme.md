@@ -4,12 +4,12 @@
     </h1>
     <p align="center" >
         &nbsp;
-        <a href="mailto:vishwa.patel2311999@gmail.com" style="text-decoration:none;">
+        <a href="mailto:vishwaupendrapatel@gmail.com" style="text-decoration:none;">
             <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&color=0e1217" alt="Email">
         </a>
         &nbsp;
         &nbsp;
-        <a href="https://www.linkedin.com/in/vishwapatel23" style="text-decoration:none;">
+        <a href="https://www.linkedin.com/in/vupatel" style="text-decoration:none;">
             <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0e1217" alt="LinkedIn">
         </a>
         &nbsp;
