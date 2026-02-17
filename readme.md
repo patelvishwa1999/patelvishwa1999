@@ -34,7 +34,7 @@
 <h2 align="center">🚀 embracing education 🎓, self-learning 📚, and experiential experience 📊🧪 🚀</h2>
 Explore how I've been applyiing my skills in various technologies and domains through these hands-on projects :
 
-## [TweetDB Search APIs](https://adbms.s3.amazonaws.com/home.html)
+## [TweetDB Search APIs](https://github.com/patelvishwa1999/tweetDBSearchAPIs)
 ![Python](https://img.shields.io/badge/-Python-0e1217?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
